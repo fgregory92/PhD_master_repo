@@ -1,4 +1,3 @@
 # PhD_master_repo
-#Reading
-##Books
-#TandD
+# Reading
+## Books
